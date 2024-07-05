@@ -1,0 +1,13 @@
+/*
+Theme Name: jacobaddis_template_theme
+Text Domain: jacobaddis_template_theme
+Version: 1.0
+Description: Jacob's Wordpress Template Theme, written in PHP
+Tags: PHP, Template, Wordpress, Theme
+Author: Jacob Spencer Addis
+Aithor URI: js-addis.com
+*/
+.big-balls {
+  background-color: aquamarine;
+  color: orange;
+}
